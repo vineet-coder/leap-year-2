@@ -5,7 +5,7 @@ var outputDiv = document.querySelector("#output");
 function clickHandler() {
   var num = txtInput.value;
 
-  var result = math.pow(num, 3);
+  var result = Math.pow(num, 3);
   outputDiv.innerText = result;
 }
 
