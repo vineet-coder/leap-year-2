@@ -5,7 +5,7 @@ var outputDiv = document.querySelector("#output");
 function clickHandler() {
   var num = txtInput.value;
 
-  var result = Math.pow(num, 3);
+  var result = 2021 - num;
   outputDiv.innerText = result;
 }
 
