@@ -1,4 +1,4 @@
-#txtinput {
+#txt-Input {
     width: 70%;
     display: block;
     margin: 2rem auto;
@@ -6,7 +6,7 @@
     height: 10vh;
   }
   
-  #btntranslate {
+  #btn-Translate {
     margin: 2rem auto;
     display: block;
   }
